@@ -3,11 +3,12 @@
 <img width="1236" height="618" alt="image" src="https://github.com/user-attachments/assets/23322b44-9225-4c18-bac7-00fe23f3f967" />
 <br>
 <br>
-Um portal de notícias moderno e responsivo desenvolvido com foco em experiência do usuário e performance. Disponível em:  
+Um portal de notícias moderno e responsivo desenvolvido com foco em experiência do usuário e performance. <br> <br>
+Disponível em: <br> <br>
 🌐 https://nerii-dev.github.io/portal_de_noticias/
-
+<br> <br>
 Portal de Notícias de Tecnologia
-
+<br> <br>
 Este é um projeto de front-end que recria a interface de um portal de notícias com foco em tecnologia. A página foi desenvolvida utilizando exclusivamente HTML5 e CSS3, com ênfase em técnicas modernas de layout, organização de código e um sistema de design consistente.
 
 ## ✨ Principais Características
