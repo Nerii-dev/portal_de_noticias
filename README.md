@@ -92,3 +92,6 @@ Abra o arquivo index.html no seu navegador de preferência.
 ## Conteúdo
 
 Para adicionar ou modificar notícias, edite diretamente o arquivo ```index.html```
+
+
+Nota: Este é um projeto em desenvolvimento. Novas funcionalidades e melhorias serão implementadas continuamente.
